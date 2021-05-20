@@ -13,7 +13,7 @@ from functools import wraps
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Iccwc#2010",
+  password="Sre#123",
   database="sonoo"
 )
 
